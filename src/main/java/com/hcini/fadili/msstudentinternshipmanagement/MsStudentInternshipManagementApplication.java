@@ -10,4 +10,6 @@ public class MsStudentInternshipManagementApplication {
         SpringApplication.run(MsStudentInternshipManagementApplication.class, args);
     }
 
+
+
 }
