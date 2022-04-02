@@ -8,6 +8,7 @@ public class MsStudentInternshipManagementApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MsStudentInternshipManagementApplication.class, args);
+        System.out.println("bdhbdhj");
     }
 
 
